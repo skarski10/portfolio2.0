@@ -1,0 +1,11 @@
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\bin\Debug\netcoreapp1.1\KorySkarbekPortfolio.deps.json
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\bin\Debug\netcoreapp1.1\KorySkarbekPortfolio.runtimeconfig.json
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\bin\Debug\netcoreapp1.1\KorySkarbekPortfolio.runtimeconfig.dev.json
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\bin\Debug\netcoreapp1.1\KorySkarbekPortfolio.dll
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\bin\Debug\netcoreapp1.1\KorySkarbekPortfolio.pdb
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\obj\Debug\netcoreapp1.1\KorySkarbekPortfolio.csprojResolveAssemblyReference.cache
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\obj\Debug\netcoreapp1.1\KorySkarbekPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\obj\Debug\netcoreapp1.1\KorySkarbekPortfolio.AssemblyInfoInputs.cache
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\obj\Debug\netcoreapp1.1\KorySkarbekPortfolio.AssemblyInfo.cs
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\obj\Debug\netcoreapp1.1\KorySkarbekPortfolio.dll
+C:\Users\Skarbek\Desktop\KorySkarbekPortfolio\KorySkarbekPortfolio\obj\Debug\netcoreapp1.1\KorySkarbekPortfolio.pdb

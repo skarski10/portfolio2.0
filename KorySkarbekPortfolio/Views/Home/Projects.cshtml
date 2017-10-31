@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Projects";
+}
+
+<body id="projects-body">
+    <div class="container info" id="projects-page">
+        <div class="row" id="projects-heading">
+            <p>My Projects:</p>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-xs-6" id="heyloo">
+                <p class="project-title"><a href="https://github.com/skarski10/Heyloo">Heyloo</a></p>
+                <div class="row project-details">
+                    <p id="heyloo-info">Heyloo is a web app written in Angular using Firebase as a database. Heyloo is a multiple choice math trivia game meant to be played on multiple screens, with a host view and a student view.</p>
+                    <div id="heyloo-picture">
+                        <a href="https://heyloo-e0dc9.firebaseapp.com/"><img src="~/images/Heyloo.png" class="project-picture" /></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-6" id="Pick-up-games">
+                <h2 class="project-title"><a href="https://github.com/skarski10/pick-up-games">Seattle Pick-Up Games</a></h2>
+                <div class="row project-details">
+                    <p id="project-info">Seattle Pick-Up Games is a application created using Angular with google maps API, Seattle Parks API & Twitter API. Allows users to locate basketball courts and create pick up games in the seattle area.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-6" id="epemon">
+                <h2 class="project-title"><a href="https://github.com/skarski10/epemon">Epemon</a></h2>
+                <div class="project-details">
+                    <p id="project-info">Epemon is a Pokemon like battling game. It was written in C# and using Microsoft SQL server as a database. Users take turns picking their attack moves to attack the other users Epemon.</p>
+                </div>
+            </div>
+            <div class="col-xs-6" id="message-board">
+                <h2 class="project-title"><a href="https://github.com/skarski10/message-baord">Message Board</a></h2>
+                <div class="project-details">
+                    <p id="project-info">Message board is a mock message board with CRUD functionality. It was written using Ember.js.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
